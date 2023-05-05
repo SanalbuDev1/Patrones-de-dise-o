@@ -1,1 +1,1 @@
-# Patrones-de-dise-o
+# Patron de diseño de tipo creacional :)
