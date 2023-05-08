@@ -1,6 +1,6 @@
 # Patrones de diseño Factory Method
 
-```
+``` rgb(9, 105, 218)
 Este patron de diseño es creacional, este patron nos ayuda a controlar la forma en que se instancias las clases de una forma mas correcta
 ```
 
